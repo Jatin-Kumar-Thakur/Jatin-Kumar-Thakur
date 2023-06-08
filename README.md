@@ -1,3 +1,4 @@
+![logo](https://github.com/Jatin-Kumar-Thakur/Jatin-Kumar-Thakur/blob/main/Github%20Banner.png)
 # 💫 About Me:
 🔭 I’m currently working on Front-End Development<br>🌱 I’m currently learning React<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with React<br>💬 Ask me about JavaScript or React<br>📫 How to reach me <a href="https://www.linkedin.com/in/jatinkumar63/">LinkedIn</a> || <a href="63.jatin@gmail.com">gmail</a><br>⚡ Fun fact I 💖 Dogs🐶
 <img align="right" width="400" alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47elvzv2uftbfhu5v1zsyouvsc74kskilxu5jocdl6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
